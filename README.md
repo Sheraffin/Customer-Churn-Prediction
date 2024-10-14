@@ -11,4 +11,4 @@ This project involves designing and implementing a machine learning model to pre
 - Improve customer satisfaction and loyalty
 - Reduce revenue losses
 
-The project will explore various machine learning algorithms, including Logistic Regression
+The project will explore various machine learning algorithms, including Logistic Regression and Random forest Classfier
